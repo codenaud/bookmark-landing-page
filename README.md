@@ -1,12 +1,10 @@
-# IT Academy Specialization [ Sprint 01.2 ]
+# # Frontend Mentor - Bookmark landing page
 
-[![IT Academy](assets/git-screenshot.png)](https://codenaud.github.io/sprint-01-2/)
+[![Bookmark landing page](assets/git-screenshot.png)](https://codenaud.github.io/sprint-01-2/)
 
 ## Description
 
-Welcome to the Sprint 01.2 project of the IT Academy Specialization!
-
-In this project, your goal is to build a landing page and make it resemble the provided design as closely as possible. Here are some key guidelines and considerations you should keep in mind:
+This challenge will really test your layout skills. There are also areas that will require some JavaScript, such as the tabbed features section and the FAQ accordion.
 
 ### Key Considerations
 
@@ -56,7 +54,7 @@ Build with
 
 ## Acknowledgments
 
-Sprint 01.2 is made possible by the amazing IT Academy community and its vibrant Discord group.
+This project would not have been possible without the incredible community of developers and designers who continually inspire and support each other.
 
 ## About Me
 
